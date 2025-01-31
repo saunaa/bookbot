@@ -1,2 +1,2 @@
 # bookbot
-Python program that can analyze an entire book 
+BookBot is my first project!
